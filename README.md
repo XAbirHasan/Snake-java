@@ -4,7 +4,7 @@ This project was made in 2018. This application was made for my university proje
 ## Project description
 Name: Snake <br>
 Programming Language: Java <br>
-GUI: javaSwing
+GUI: javaSwing <br>
 Project No: 8 <br>
 Year: 2018
 
